@@ -1,0 +1,63 @@
+
+h1{color:blue}
+.name{
+    color:green;
+    font-size:20px;
+}
+.class{
+    color:orange;
+    font-size:25px;
+}
+.branch{
+    color:orchid;
+    font-size:25px;
+}
+.roll{
+    color:indigo;
+    font-size:25px;
+}
+.aim{
+    color:brown;
+    font-size:30px;
+}
+.hobbies{
+    color:olive;
+font-size:20px;
+}
+.college{
+    color:greenyellow;
+    font-size:20px; 
+}
+.address{
+    color:goldenrod;
+    font-size:20px;
+}
+.parent{
+    border:1px solid blueviolet;
+    width:400px;}
+    .child1{
+        border:2px solid orange;
+        padding:30px 20px 40px 20px;
+        margin:20px;
+    }
+    .parent2{
+        border:2px solid blueviolet;
+        width:400px;
+        
+    }
+    
+    .child2{border:2px solid royalblue;       
+        padding:20px 60px 40px 30px;
+        margin:30px 40px 20px 40px;  
+    }
+    .parent3{
+        border:3px solid blueviolet;
+        width:300px;}
+    .child3{border:2px solid palegreen;
+        padding:20px 60px 40px 30px;
+        margin:30px 40px 20px 40px;  
+
+    }
+
+
+

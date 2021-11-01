@@ -1,0 +1,56 @@
+LINUX FILE SYSTEM :
+-------------------
+It is a structured collection of files on a disk drive or a partition.
+We generally use of computers to store the data.so that we can easily access
+files in less time. 
+It consists of the following categories
+=> / *root directory*
+=> (EXT3, EXT4, BTRFS, XFS ....) *some specific storage format * 
+
+
+LINUX FILE SYSTEM STRUCTURE:
+***************************
+Linux file system has of hierarchial file structure.
+It contains a root directory and subdirectories.
+Linux file system contains two-part file system software implementation architcture.
+                   KERNAL
+              VIRTUAL FILE SYSTEM
+        EXT3  HPFS  VFAT EXT4  FREEBSD
+                  HARDWARE
+KERNAL:
+*******
+A Kernal is the central part of an operating system.It manages the operations of the
+computer and the hardaware.
+Kernals also provide services which programs can use through system calls.
+VIRTUAL FILE SYSTEM:
+********************
+It is the software layer in the kernal that provides the file system interface to userspace programs.
+HARDWARE:
+********
+It is the most visible part of information system.
+
+TYPES OF LINUX FILE SYSTEM:
+***************************
+1.Ext,Ext2,Ext3 and Ext4 file system
+2.JFS file system
+3.ReiserFS file system
+4.XFS file system
+5.Btrfs file system
+6.Swap file system
+
+=>Ext,Ext2,Ext3 and Ext4 file system:
+ Ext stands for extended file system.It was developed for MINIX OS.
+Ext2 allows managing two terabytes of data.
+Ext3 is an upgraded version of Ext2
+Ext4 is a faster file system and it is very compatible for solid state drive.
+=>JFS file system:
+JFS stands for journaled file system.It is developed by IBM for AIX Unit.It is an alternative of Ext,Ext4 file system.cpu power is limited.
+=>ReiserFS file system:
+It is an alternative of Ext3.It was used as the default file system in SUSE Linux,suse returned to Ext3.
+=>XFS file system:
+It was considered as high-speed JFS,developed for both i/o processing.
+=>Btrfs file system:
+It stands for B tree file system.It is used for tolerance,fun administration,extensive storage configuration.
+=>Swap file system:
+It is used for memmemory paging Linux OS.It never goes in to hybernate
+

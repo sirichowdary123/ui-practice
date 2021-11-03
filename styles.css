@@ -58,6 +58,63 @@ font-size:20px;
         margin:30px 40px 20px 40px;  
 
     }
+    .heading{
+        font-size:xx-large;
+        color:black;
+    }
+    .circle{
+        width:500px;
+        height:500px;
+        background-color:black;
+        border-radius:50%;
+        display: 1;
+        justify-content: center;
+        align-items: center;
+
+    }
+    .first{
+        border:1px solid black;
+    }
+    .second{
+        margin:30px 40px 30px 40px;
+        padding:200px;
+    }
+    .card-images{
+        background-color:crimson;
+        width:400px;
+        height:200px;
+    }
+    .siri1{
+        color:blueviolet;
+        background-color: cornsilk;
+    }
+    .siri2{
+        color:olivedrab;
+        background-color:whitesmoke;
+
+    }
+    .siri3{
+        height:300px;
+        width:300px;
+    }
+    .siri4{
+        color:deeppink;
+        background-color: gray;
+    }
+    .siri5{
+        color:indigo;
+        background-color: khaki;
+    }
+    .siri6{
+        color:rgb(205, 150, 0);
+        background-color: paleturquoise;
+
+    }
+    .siri7{
+        color:yellow;
+        background-color: black;
+    }
+
 
 
 

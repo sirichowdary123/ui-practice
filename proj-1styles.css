@@ -1,0 +1,554 @@
+
+h1{color:blue}
+.name{
+    color:green;
+    font-size:20px;
+}
+.class{
+    color:orange;
+    font-size:25px;
+}
+.branch{
+    color:orchid;
+    font-size:25px;
+}
+.roll{
+    color:indigo;
+    font-size:25px;
+}
+.aim{
+    color:brown;
+    font-size:30px;
+}
+.hobbies{
+    color:olive;
+font-size:20px;
+}
+.college{
+    color:greenyellow;
+    font-size:20px; 
+}
+.address{
+    color:goldenrod;
+    font-size:20px;
+}
+.parent{
+    border:1px solid blueviolet;
+    width:400px;}
+    .child1{
+        border:2px solid orange;
+        padding:30px 20px 40px 20px;
+        margin:20px;
+    }
+    .parent2{
+        border:2px solid blueviolet;
+        width:400px;
+        
+    }
+    
+    .child2{border:2px solid royalblue;       
+        padding:20px 60px 40px 30px;
+        margin:30px 40px 20px 40px;  
+    }
+    .parent3{
+        border:3px solid blueviolet;
+        width:300px;}
+    .child3{border:2px solid palegreen;
+        padding:20px 60px 40px 30px;
+        margin:30px 40px 20px 40px;  
+
+    }
+    .heading{
+        font-size:xx-large;
+        color:black;
+        text-align:center;
+    }
+    .d{
+        margin-bottom: 20px;
+        display:flex;
+        align-items:center;
+
+    }
+    .s{
+        display:flex;
+        align-items:center;
+        margin-bottom: 20px;
+        border-top: 1px solid black;
+        border-bottom: 1px solid black;
+        padding:10px;
+
+    }
+    .first-txt{
+        border-right: 1px solid black;
+        margin-right:15px;
+    }
+    .circle{
+        width:100px;
+        height:100px;
+        background-color:black;
+        border-radius:50%;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        color:white;
+        font-size:40px;
+        margin-right: 40px;
+
+
+    }
+    .first{
+        padding-right:30px;
+        
+    width:50%;
+    
+    }
+    .card-images{
+        background-color:crimson;
+        width:400px;
+        height:200px;
+        display: inline-block;
+        margin-right:-4px;
+    }
+    .card-images1{
+        background-color:skyblue;
+        width:200px;
+        height:200px;
+        display: inline-block;
+        margin-right:-4px;
+    
+    }
+    .card-images2{
+        background-color:green;
+        width:100px;
+        height:200px;
+        display: inline-block;
+        margin-right:-4px;
+    }
+    .card-images3{
+        background-color:khaki;
+        width:80px;
+        height:200px;
+        display: inline-block;
+        margin-right:-4px;
+    }
+    .card-images4{
+        background-color:palevioletred;
+        width:50px;
+        height:200px;
+        display: inline-block;
+        margin-right:-4px;
+    }
+    .card-images5{
+        background-color:red;
+        width:40px;
+        height:200px;
+        display: inline-block;
+        margin-right:-4px;
+    }
+    .card-images6{
+        background-color:brown;
+        width:30px;
+        height:200px;
+        display: inline-block;
+        margin-right:-4px;
+    }
+    .card-images7{
+        background-color:blueviolet;
+        width:20px;
+        height:200px;
+        display: inline-block;
+        margin-right:-4px;
+    }
+    .card-images8{
+        background-color:sandybrown;     
+         width:20px;
+        height:200px;
+        display: inline-block;
+        margin-right:-4px;
+    }
+    .triangle{
+        display:flex;
+        align-items: flex-end;
+        margin-bottom: 30px;
+    }
+
+    .tre {
+        border-top:150px solid coral;
+        border-left:150px solid transparent;
+        border-right:150px solid transparent;
+        width:0px;
+    
+    }
+    .tri{
+        border-top:125px solid skyblue;
+        border-left:125px solid transparent;
+        border-right:125px solid transparent;
+        width:0px;
+        margin-left:-125px;
+    }
+    .tri1{
+    border-top:100px solid green;
+    border-left:100px solid transparent;
+    border-right:100px solid transparent;
+    width:0px;
+    margin-left:-100px;
+    }
+    .tri2{
+        border-top:75px solid palevioletred;
+        border-left:75px solid transparent;
+        border-right:75px solid transparent;
+        width:0px;
+        margin-left:-75px;
+    }
+    .tri3{
+        border-top:50px solid red;
+        border-left:50px solid transparent;
+        border-right:50px solid transparent;
+        width:0px;
+        margin-left:-50px;
+    }
+    .tri4{
+        border-top:30px solid brown;
+        border-left:30px solid transparent;
+        border-right:30px solid transparent;
+        width:0px;
+        margin-left:-30px;
+    }
+
+    .c{
+        margin-bottom: 20px;
+        display:flex;
+        align-items:center;
+        flex-wrap: wrap;
+    }
+    .circle1{
+        width:50px;
+        height:50px;
+        background-color:crimson;
+        border-radius:50%;
+        display:flex;
+        margin-right:10px;
+        margin-bottom: 30px;
+
+    }
+    .circle2{
+        width:50px;
+        height:50px;
+        background-color:skyblue;
+        border-radius:50%;
+        display:flex;
+        margin-right:10px;
+        margin-bottom: 30px;
+    }
+    .circle3{
+        width:50px;
+        height:50px;
+        background-color:green;
+        border-radius:50%;
+        display:flex;
+        margin-right:10px;
+        margin-bottom: 30px;
+    }
+    .circle4{
+        width:50px;
+        height:50px;
+        background-color:yellow;
+        border-radius:50%;
+        display:flex;
+        margin-right:10px;
+        margin-bottom: 30px;
+    }
+    .circle5{
+        width:50px;
+        height:50px;
+        background-color:palevioletred;
+        border-radius:50%;
+        display:flex;
+        margin-right:10px;
+        margin-bottom: 30px;
+    }
+        .circle6{
+            width:50px;
+            height:50px;
+            background-color:red;
+            border-radius:50%;
+            display:flex;
+            margin-right:10px;
+            margin-bottom: 30px;
+        }
+        .circle7{
+            width:50px;
+            height:50px;
+            background-color:brown;
+            border-radius:50%;
+            display:flex;
+            margin-right:10px;
+            margin-bottom: 30px;
+        }
+        .circle8{
+            width:50px;
+            height:50px;
+            background-color:blueviolet;
+            border-radius:50%;
+            display:flex;
+            margin-right:10px;
+            margin-bottom: 30px;
+        }
+        .circle9{
+            width:50px;
+            height:50px;
+            background-color:sandybrown;
+            border-radius:50%;
+            display:flex;
+            margin-right:10px;
+            margin-bottom: 30px;
+        }
+        .f{
+         margin-right:30px;
+        }
+        .circles{
+            width:100px;
+            height:100px;
+            background-color:black;
+            border-radius:50%;
+            display:flex;
+            justify-content:center;
+            align-items:center;
+            color:white;
+            font-size:40px;
+            margin-right: 40px;
+        }
+        .cs{
+            margin-bottom: 20px;
+            display:flex;
+            align-items:center;
+    
+        }
+        .card-image{
+            background-color:crimson;
+            width:600px;
+            height:40px;
+            display: inline-block;
+        }
+        .card-image1{
+            background-color:skyblue;
+            width:200px;
+            height:40px;
+            display: inline-block;
+        }
+        .card-image2{
+            background-color:green;
+            width:100px;
+            height:40px;
+            display: inline-block;
+        }
+        .card-image3{
+            background-color:yellow;
+            width:50px;
+            height:40px;
+            display: inline-block;
+        }
+        .card-image4{
+            background-color:palevioletred;
+            width:20px;
+            height:40px;
+            display: inline-block;
+        }
+        .card-image5{
+            background-color:red;
+            width:10px;
+            height:40px;
+            display: inline-block;
+        }
+        .card-image6{
+            background-color:brown;
+            width:10PX;
+            height:40px;
+            display: inline-block;
+        }
+        .card-image7{
+            background-color:blueviolet;
+            width:10px;
+            height:40px;
+            display: inline-block;
+        }
+        .csb{
+            margin-top:30px;
+            margin-bottom: 20px;
+            display:flex;
+            align-items:center;
+        
+
+        }
+        .circlee{
+            width:100px;
+            height:100px;
+            background-color:black;
+            border-radius:50%;
+            display:flex;
+            justify-content:center;
+            align-items:center;
+            color:white;
+            font-size:40px;
+            margin-right: 40px;
+
+        }
+        
+        .csf{
+            margin-top:30px;
+            margin-bottom: 20px;
+            display:flex;
+            align-items:center;
+        }
+        .circleee{ 
+            width:100px;
+            height:100px;
+            background-color:black;
+            border-radius:50%;
+            display:flex;
+            justify-content:center;
+            align-items:center;
+            color:white;
+            font-size:40px;
+            margin-right: 40px;
+
+        }
+        .circless{ 
+            width:300px;
+            height:300px;
+            background-color:skyblue;
+            border-radius:50%;
+            display:flex;
+            justify-content:center;
+            align-items:center;
+            color:black;
+            font-size:40px;
+            margin-right:10px;
+            
+
+        }
+        .circlees{ 
+            width:200px;
+            height:200px;
+            background-color:green;
+            border-radius:50%;
+            display:flex;
+            justify-content:center;
+            align-items:center;
+            color:black;
+            font-size:40px;
+            margin-right:10px;
+            margin-bottom:50px;
+
+        }
+
+        .circlesss{ 
+            width:50px;
+            height:50px;
+            background-color:crimson;
+            border-radius:50%;
+            display:flex;
+            justify-content:center;
+            align-items:center;
+            color:black;
+            font-size:10px;
+            margin-right:5px;
+            margin-bottom:200px;
+
+        }
+        .cssf{
+            margin-top:30px;
+            margin-bottom: 20px;
+            display:flex;
+            align-items:center;
+        }
+        .cssc{
+            margin-top:30px;
+            margin-bottom: 20px;
+            display:flex;
+            align-items:center;
+        }
+
+        .circleeeeee{
+            width:100px;
+            height:100px;
+            background-color:black;
+            border-radius:50%;
+            display:flex;
+            justify-content:center;
+            align-items:center;
+            color:white;
+            font-size:40px;
+            margin-right:10px;
+        }
+        .circlea1{ 
+              width:50px;
+            height:50px;
+            background-color:palevioletred;
+            border-radius:50%;
+            margin-right:15px;
+
+        }
+        .circlea2{ 
+            width:50px;
+          height:50px;
+          background-color:yellow;
+          border-radius:50%;
+          margin-right:15px;
+        }
+        .slrc{
+            width:200px;
+            height:200px;
+            background-color:palevioletred;
+            border-radius:50%;
+            display:flex;
+            justify-content:center;
+            align-items:center;
+            color:black;
+            font-size:40px;
+        
+            
+        }
+        .llrc{
+                width:200px;
+                height:200px;
+                background-color:yellow;
+                border-radius:50%;
+                display:flex;
+                justify-content:center;
+                align-items:center;
+                color:black;
+                font-size:40px;
+            
+                
+            }
+            .h{
+                display:flex;
+                margin-bottom:40px;
+                align-items:center;
+            }
+            .g{
+                display:flex;
+                align-items: center;
+                
+
+            }
+            .k{
+                display:flex;
+                align-items:center;
+                margin-top:20px;
+            }
+        
+        
+        
+    
+    
+    
+
+
+
+
+
+
+
+
